@@ -1,6 +1,3 @@
-//I hate defining variables to I put everything in objects lol
-// { "illumio_labels": { "dev": "/orgs/1/labels/16", "Development": "/orgs/1/labels/9", "Production": "/orgs/1/labels/7", "QA": "/orgs/1/labels/14", "Staging": "/orgs/1/labels/8", "Test": "/orgs/1/labels/10", "Amazon": "/orgs/1/labels/11", "AWS London": "/orgs/1/labels/18", "AWS NVirginia": "/orgs/1/labels/15", "Azure": "/orgs/1/labels/12", "Rackspace": "/orgs/1/labels/13", "API": "/orgs/1/labels/3", "Database": "/orgs/1/labels/2", "Load Balancer": "/orgs/1/labels/6", "Mail": "/orgs/1/labels/4", "Single Node App": "/orgs/1/labels/5", "Web": "/orgs/1/labels/1" } }
-// claims.user.agScripted = { "illumio_labels": { "dev": "/orgs/1/labels/16", "Development": "/orgs/1/labels/9", "Production": "/orgs/1/labels/7", "QA": "/orgs/1/labels/14", "Staging": "/orgs/1/labels/8", "Test": "/orgs/1/labels/10", "Amazon": "/orgs/1/labels/11", "AWS London": "/orgs/1/labels/18", "AWS NVirginia": "/orgs/1/labels/15", "Azure": "/orgs/1/labels/12", "Rackspace": "/orgs/1/labels/13", "API": "/orgs/1/labels/3", "Database": "/orgs/1/labels/2", "Load Balancer": "/orgs/1/labels/6", "Mail": "/orgs/1/labels/4", "Single Node App": "/orgs/1/labels/5", "Web": "/orgs/1/labels/1" } };
 claims.user.appColors = ["AWS London"]
 
 
