@@ -20,6 +20,7 @@ var returnpublicIPs = false;
 var returnprivateIPs = true;
 var apikey = "";
 var apisecret  = "";
+var baseurl = "";
 
 
 var  assignedLabels = [['DC', 'AD']];  //use an array of array's to assign labels, a single label is too broad anyway. If there is only a single array of labels, make sure to nest it
